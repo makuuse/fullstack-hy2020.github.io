@@ -310,3 +310,5 @@ Generoi frontendistä tuotantoversio ja lisää se internetissä olevaan sovellu
 Huolehdi myös, että frontend toimii edelleen myös paikallisesti.
 
 </div>
+
+Hei. Voisitteko keksiä jonkun vaihtoehtoisen menetelmän testata "stäkkiä" www-rajapinnassa/Internetin yli? Kurssin sisältöön kuuluu jo muutenkin mielestäni hieman liikaa erilaisia asennettavia työkaluja. Heroku on taas yksi palvelu lisää, mikä kerää käyttäjätietoja ja kuormittaa kotikonetta. 
